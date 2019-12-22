@@ -3,6 +3,11 @@
     padding: 0;
     
 }
+h1, h2, p{
+    color: cornflowerblue;
+    text-align: center;
+}
+/* Aula 02
 h1{
     color: #FF0000;
 }
@@ -29,6 +34,7 @@ input[type="submit"]{
     border: none;
     color: #FFF;
 }
+*/
 /* Aula 01
 h1{
     color: coral;
