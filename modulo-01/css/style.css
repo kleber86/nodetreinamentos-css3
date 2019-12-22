@@ -1,5 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+h1{
+    color: #FF0000;
+}
+p{
+    color: cadetblue;
+    font-weight: 900;
+}
+input[type="text"]{
+    width: 200px;
+    height: 30px;
+    background-color: #CCC;
+    border: none;
+}
+input[type="email"]{
+    width: 200px;
+    height: 30px;
+    background-color: #CCC;
+    border: none;
+}
+input[type="submit"]{
+    width: 100px;
+    height: 35px;
+    background-color: #000000;
+    border: none;
+    color: #FFF;
+}
+/* Aula 01
 h1{
     color: coral;
     font-size: 40px;
     font-family: 'Courier New', Courier, monospace;
 }
+*/
