@@ -3,6 +3,13 @@
     padding: 0;
     
 }
+#conteudo{
+    min-width: 500px;
+    max-height: 30px;
+    background-color: darkolivegreen;
+    padding: 20px;
+}
+/* Aula 05
 .texto-principal{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
