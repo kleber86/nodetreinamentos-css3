@@ -3,6 +3,16 @@
     padding: 0;
     
 }
+#exemplo2{
+    background-color: darkorange;
+    width: 300px;
+    margin: 20px 0 0 0;
+}
+#exemplo{
+    width: 500px;
+    background-color: darkolivegreen;
+    padding: 10px 30px 50px 100px;
+/* Aula 06
 #conteudo{
     min-width: 500px;
     max-height: 30px;
