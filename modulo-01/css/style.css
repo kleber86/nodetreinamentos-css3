@@ -3,11 +3,23 @@
     padding: 0;
     
 }
+.texto-principal{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fundo-principal{
+    background-color: darkgreen;
+    padding: 20px;
+}
+#conteudo{
+    background-color: darkolivegreen;
+}
+/* Aula 04
 h1, h2, p{
     color: cornflowerblue;
     text-align: center;
 }
-/* Aula 02
+/* Aula 02 e 03
 h1{
     color: #FF0000;
 }
@@ -34,7 +46,6 @@ input[type="submit"]{
     border: none;
     color: #FFF;
 }
-*/
 /* Aula 01
 h1{
     color: coral;
