@@ -3,6 +3,24 @@
     padding: 0;
     
 }
+p{
+    color: darkred;
+    text-transform: capitalize;
+    text-align: justify;
+}
+h1{
+    text-align: left;
+    text-decoration: underline;
+}
+h2{
+    text-align: right;
+    text-decoration: overline;
+}
+h3{
+    text-align: center;
+    text-decoration: line-through;
+}
+/* Aula 07
 #exemplo2{
     background-color: darkorange;
     width: 300px;
