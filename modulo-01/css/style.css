@@ -5,7 +5,13 @@
     font-size: 100%;
     
 }
-
+#cores{
+    margin: 10px 0 0 10px;
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(red, black)
+}
+/* Aula 14
 #cores{
     width: 200px;
     height: 200px;
