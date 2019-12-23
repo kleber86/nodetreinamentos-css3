@@ -6,7 +6,20 @@
     
 }
 p{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 40px;
+}
+/* Aula 12
+@font-face {
+    font-family: arizoniaregular;
+    src: url('arizonia-regular-webfont.woff2') format('woff2'),
+         url('arizonia-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+p{
+    font-family: 'arizoniaregular';
     color: darkslateblue;
     font-variant: small-caps;
     font-weight: lighter;
