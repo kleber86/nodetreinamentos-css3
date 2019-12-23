@@ -5,6 +5,14 @@
     font-size: 100%;
     
 }
+
+#cores{
+    width: 200px;
+    height: 200px;
+    background-color: hsl(20, 100%, 75%);
+    margin: 10px 0 0 10px;
+}
+/* Aula 13
 p{
     font-family: 'Roboto Slab', serif;
     font-size: 40px;
