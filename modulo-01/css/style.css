@@ -5,6 +5,19 @@
     font-size: 100%;
     
 }
+#exemplo{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function:linear ;
+}
+#exemplo:hover{
+    width: 800px;
+    background-color: green;
+}
+/* Aula 18
 #solid{
     width: 600px;
     height: 100px;
